@@ -1,0 +1,4 @@
+[[redirects]]
+from = "/*"
+to = "/plague.html"
+status = 200
